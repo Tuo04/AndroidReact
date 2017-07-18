@@ -8,10 +8,10 @@
  */
 
 #import "AppDelegate.h"
+#import <RNPush/RNPush.h>
 #import <RNCrashes/RNCrashes.h>
-
 #import <RNAnalytics/RNAnalytics.h>
-
+#import <RNMobileCenter/RNMobileCenter.h>
 
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
@@ -22,14 +22,18 @@
 {
   NSURL *jsCodeLocation;
 
+  [RNPush register];  // Initialize Mobile Center push
+
   [RNCrashes registerWithCrashDelegate: [[RNCrashesDelegateAlwaysSend alloc] init]];  // Initialize Mobile Center crashes
 
   [RNAnalytics registerWithInitiallyEnabled:true];  // Initialize Mobile Center analytics
 
+  [RNMobileCenter register];  // Initialize Mobile Center 
+
   jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index.ios" fallbackResource:nil];
 
   RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
-                                                      moduleName:@"AndroidReact1"
+                                                      moduleName:@"AndroidReact0718"
                                                initialProperties:nil
                                                    launchOptions:launchOptions];
   rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];

@@ -1,4 +1,4 @@
-package com.androidreact1;
+package com.androidreact0718;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "AndroidReact1";
+        return "AndroidReact0718";
     }
 }

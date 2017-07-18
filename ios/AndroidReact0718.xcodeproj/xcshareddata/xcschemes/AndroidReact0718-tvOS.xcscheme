@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "AndroidReact1-tvOS.app"
-               BlueprintName = "AndroidReact1-tvOS"
-               ReferencedContainer = "container:AndroidReact1.xcodeproj">
+               BuildableName = "AndroidReact0718-tvOS.app"
+               BlueprintName = "AndroidReact0718-tvOS"
+               ReferencedContainer = "container:AndroidReact0718.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AndroidReact1-tvOSTests.xctest"
-               BlueprintName = "AndroidReact1-tvOSTests"
-               ReferencedContainer = "container:AndroidReact1.xcodeproj">
+               BuildableName = "AndroidReact0718-tvOSTests.xctest"
+               BlueprintName = "AndroidReact0718-tvOSTests"
+               ReferencedContainer = "container:AndroidReact0718.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AndroidReact1-tvOSTests.xctest"
-               BlueprintName = "AndroidReact1-tvOSTests"
-               ReferencedContainer = "container:AndroidReact1.xcodeproj">
+               BuildableName = "AndroidReact0718-tvOSTests.xctest"
+               BlueprintName = "AndroidReact0718-tvOSTests"
+               ReferencedContainer = "container:AndroidReact0718.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AndroidReact1-tvOS.app"
-            BlueprintName = "AndroidReact1-tvOS"
-            ReferencedContainer = "container:AndroidReact1.xcodeproj">
+            BuildableName = "AndroidReact0718-tvOS.app"
+            BlueprintName = "AndroidReact0718-tvOS"
+            ReferencedContainer = "container:AndroidReact0718.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AndroidReact1-tvOS.app"
-            BlueprintName = "AndroidReact1-tvOS"
-            ReferencedContainer = "container:AndroidReact1.xcodeproj">
+            BuildableName = "AndroidReact0718-tvOS.app"
+            BlueprintName = "AndroidReact0718-tvOS"
+            ReferencedContainer = "container:AndroidReact0718.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AndroidReact1-tvOS.app"
-            BlueprintName = "AndroidReact1-tvOS"
-            ReferencedContainer = "container:AndroidReact1.xcodeproj">
+            BuildableName = "AndroidReact0718-tvOS.app"
+            BlueprintName = "AndroidReact0718-tvOS"
+            ReferencedContainer = "container:AndroidReact0718.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

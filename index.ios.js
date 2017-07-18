@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class AndroidReact1 extends Component {
+export default class AndroidReact0718 extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('AndroidReact1', () => AndroidReact1);
+AppRegistry.registerComponent('AndroidReact0718', () => AndroidReact0718);

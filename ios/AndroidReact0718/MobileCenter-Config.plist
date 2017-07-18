@@ -3,6 +3,6 @@
 <plist version="1.0">
   <dict>
     <key>AppSecret</key>
-    <string>(From corresponding iOS app in Monile Center)</string>
+    <string/>
   </dict>
 </plist>
